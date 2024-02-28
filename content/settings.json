@@ -1,33 +1,30 @@
 {
   "siteMetadata": {
-    "language": "en",
+    "language": "es",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "title": "Johan Caicedo portafolio de Diseño",
+    "titleTemplate": "JC Portafolio",
+    "description": "Este es el portafolio de diseño de Johan Caicedo",
+    "author": "Johan Caicedo",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Diseñador con 3 años en web, productos gráficos, audiovisuales y fotografía, trayectoria editorial de 4 años. Comprometido con la excelencia.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "https://www.behance.net/johanccaicedo/",
+      "github": "https://github.com/JohanCaicedo/",
+      "linkedin": "https://www.linkedin.com/in/johan-caicedo-b1a8611a4/",
+      "mail": "camilo.design07@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Portafolio" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Perfil profesional", "url": "/#about" },
+        { "label": "Proyectos", "url": "/#features" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "CV",
         "url": "/resume.pdf"
       },
       "footer": [

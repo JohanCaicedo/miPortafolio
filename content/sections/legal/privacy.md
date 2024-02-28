@@ -1,19 +1,27 @@
 ---
 sectionId: privacy
 ---
+Política de Privacidad
+Información básica
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+Esta página web es un portafolio personal que no recopila ni almacena ningún tipo de información personal sobre los usuarios que la visitan.
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+Navegación anónima
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+Tu navegación por este sitio web es completamente anónima. No se recopilan datos como tu dirección IP, tipo de navegador o sistema operativo.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+Cookies
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+Esta página web utiliza cookies técnicas para el correcto funcionamiento del sitio web. Estas cookies no son invasivas ni recopilan información personal.
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+Contacto
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarme a través de la información de contacto que se encuentra en este sitio web.
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+Fecha de vigencia
+
+Esta Política de Privacidad fue actualizada por última vez el 28 de febrero de 2024.
+
+Compromiso con la privacidad
+
+Me comprometo a proteger la privacidad de los usuarios de este sitio web. Esta política de privacidad se actualiza regularmente para reflejar los cambios en la legislación y las mejores prácticas.
