@@ -1,65 +1,72 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "🛠️ Diseño de personajes",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "📖 Diseño editorial",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "🖥️ Diseño web",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "📸 Fotografía",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "📑 Lenguaje cinematográfico",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "🎥 Manejo de cámara (vídeo)",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "📐 Maquetado",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "🚀 Prototipado",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "⌨️ Programación",
+      "image": {
+        "src": "",
         "alt": ""
       }
     }
   ],
   "button": {
     "visible": true,
-    "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "label": "+ Cargar más",
+    "initiallyShownInterests": 6
   }
 }

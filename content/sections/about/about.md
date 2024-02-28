@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/johancaicedoIMG.jpg"
 imageAlt: "Perfil profesional"
 ---
 
