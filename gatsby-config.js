@@ -1,4 +1,6 @@
 module.exports = {
+
+  pathPrefix:"/miPortafolio",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
